@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Win32Project1.cpp
+LINK : warning LNK4044: unrecognized option '/_CRT_SECURE_NO_WARNINGS'; ignored
+  Generating code
+  Finished generating code
+  All 19 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Win32Project1.vcxproj -> c:\users\kora\documents\visual studio 2015\Projects\Win32Project1\Release\Win32Project1.exe
